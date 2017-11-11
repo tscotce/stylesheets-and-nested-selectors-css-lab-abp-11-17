@@ -22,5 +22,6 @@ nav ul li {
 }
 nav a {
   text-decoration: none;
-  color: #007bff
+  color: #007bff;
+  font-size: 18px;
 }
